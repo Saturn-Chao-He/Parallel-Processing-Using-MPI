@@ -3,9 +3,9 @@
 ### In this project, I implement a number counting program using divide and conquer. I use MPI to do communication.
 ### There are two files: numsCount.cpp and nums.txt 
 
-To run my program: 
-mpicxx -fopenmp -o numsCount numsCount.cpp
-mpiexec -n 4 ./numsCount
+### To run my program: 
+### mpicxx -fopenmp -o numsCount numsCount.cpp
+### mpiexec -n 4 ./numsCount
 
 
 
